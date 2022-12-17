@@ -1,0 +1,617 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: glitcherstrings_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: d54368cb3954f41bc82761f40c74d2a9, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 227099533312
+    m_Localized: FILE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19530448363520
+    m_Localized: EDIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24350190198784
+    m_Localized: VIEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24823223803904
+    m_Localized: SPECIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37000856985600
+    m_Localized: TRASH BIN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41177398108160
+    m_Localized: BROWSER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41696392896512
+    m_Localized: E-MAIL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42172756779008
+    m_Localized: DOCUMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42420380098560
+    m_Localized: COMPUTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363866797105152
+    m_Localized: NEW
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479156746838016
+    m_Localized: UNTITLED.BMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479462251552768
+    m_Localized: SANSSERIFF.FNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482913727537152
+    m_Localized: UNTITLED.BMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 485618013429760
+    m_Localized: SYSTEM.DLL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486016006742016
+    m_Localized: ABOUT THIS GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486194579234816
+    m_Localized: SERIFF.FNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486569608732672
+    m_Localized: UNTITLED.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487263405334528
+    m_Localized: RESUME.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487471459590144
+    m_Localized: ADULTHOOD.JPG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487683540377600
+    m_Localized: TERMINAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488174399774720
+    m_Localized: HOLIDAYCARD.BMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488408496463872
+    m_Localized: E-MAIL CLIENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489230521327616
+    m_Localized: PR3TTYPR1YAA CHAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489668889010176
+    m_Localized: OHSH1TALEX CHAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489836111716352
+    m_Localized: EMULATOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490082271223808
+    m_Localized: FLOPPY DISK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490857504432128
+    m_Localized: WONDER3R'S BU...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491058902327296
+    m_Localized: CHILDHOOD.JPG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491263517253632
+    m_Localized: EXPENSES.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491520896524288
+    m_Localized: GAMES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492471745241088
+    m_Localized: BRINK.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492831184510976
+    m_Localized: SYSTEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493003427799040
+    m_Localized: APPLICATIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493443137658880
+    m_Localized: TEXT EDITOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493631382216704
+    m_Localized: PAINTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493798663643136
+    m_Localized: INSTANT MSG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494046245019648
+    m_Localized: LIBRARY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495076684849152
+    m_Localized: TRASH BIN/ROMS/
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495703800406016
+    m_Localized: SUPERFLOPPYDISK.ROM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496150095323136
+    m_Localized: UTILITIES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496323609485312
+    m_Localized: SYSTEM.DLL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496906579992576
+    m_Localized: SERIFF.FNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497202433613824
+    m_Localized: FONTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497738998341632
+    m_Localized: DOWNLOADS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498509810753536
+    m_Localized: ROMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501215199748096
+    m_Localized: DOCUMENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501704465309696
+    m_Localized: FREEROMDOWNLOADS.COM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503361701928960
+    m_Localized: SUPER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503997839433728
+    m_Localized: Press Enter to restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504222792540160
+    m_Localized: SCANNING FOR VIRUS...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504439256375296
+    m_Localized: 'An ending has occured. To Continue:
+
+
+      Press Enter to restart
+
+
+      Thank
+      you for playing GLITCHER! If you enjoyed this game please rate and share. Pressing
+      Enter will restart the game from the beginning.
+
+
+      ERROR TIME :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504811765096448
+    m_Localized: PR3TTYPR1YAA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505094738010112
+    m_Localized: OHSH1TALEX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505589384863744
+    m_Localized: 'A Game by
+
+      RAFI EMILIO ALAM
+
+      +
+
+      SARADA CHEN'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505809715847168
+    m_Localized: "Ohsh1talex (9:02pm): Why did u hang up on me\nWonder3r (9:03pm):
+      Because I\u2019m so tired of this\nWonder3r (9:03pm): Why do I have to chase
+      you down\nWonder3r (9:03pm): Why do I have to be the one trying \nWonder3r
+      (9:03pm): Why can\u2019t you just stay here\nOhsh1talex (9:05pm): No why do
+      I have to chase u down\nOhsh1talex (9:05pm): Ur the one who hung up\nOhsh1talex
+      (9:05pm): I was only being real about things\nOhsh1talex (9:05pm): Every time
+      I try to be real\nOhsh1talex (9:05pm): U dont want it\nWonder3r (9:07pm): BECAUSE
+      it\u2019s hard to deal with ok?\nWonder3r (9:07pm): You want to move to London
+      \nWonder3r (9:07pm): I thought you wanted to finish things up with Carlos first\nOhsh1talex
+      (9:10pm): Like I said before he\u2019s good with me going\nOhsh1talex (9:10pm):
+      He knows this is a good opportunity for me so he ain\u2019t gonna hold me back\nWonder3r
+      (9:10pm): So now I\u2019m holding you back\nWonder3r (9:11pm): I\u2019m sorry
+      that I don\u2019t want to let go but you know this shit happens too fucking
+      often\nOhsh1talex (9:11pm): Maybe u don\u2019t mean to but u r\nOhsh1talex
+      (9:11pm): n I\u2019m sorry ok\nOhsh1talex (9:12pm): But stop using other ppl
+      as an excuse for urself\nWonder3r (9:13pm): Wtf are you talking about\nOhsh1talex
+      (9:14pm): On the phone and just now \nOhsh1talex (9:14pm): U always bring up
+      Carlos like he ain\u2019t my boy\nOhsh1talex (9:14pm): like he dont get it\nOhsh1talex
+      (9:14pm): He gets this is important n he\u2019s ok if I leave the group so
+      y can\u2019t u \nWonder3r (9:16pm): I\u2019m not using him as an excuse I was
+      just saying\nOhsh1talex (9:18pm): Idk u do it a lot \nWonder3r (9:20pm): I\u2019m
+      sorry I\u2019m not supporting you but you just told me about London like a
+      week ago\nWonder3r (9:20pm): Just a week ago we were on our trip to Boston\nWonder3r
+      (9:20pm): You said you want to bring me anywhere and everywhere\nWonder3r (9:20pm):
+      That we were forever\nWonder3r (9:23pm): What am I suppose to do?\nOhsh1talex
+      (9:24pm): Ur suppose to trust me n let me live this dream\nOhsh1talex (9:24pm):
+      This could be my biggest break w/ help from Mr. Wecke\nWonder3r (9:26pm): And
+      what about us\nOhsh1talex (9:26pm): We\u2019ll see what happens maybe ull come
+      too one day\nOhsh1talex (9:26pm): Right?\nWonder3r (9:27pm): Maybe\nOhsh1talex
+      (9:30pm): I love u\nWonder3r (9:30pm): I love you too\nOhsh1talex (9:35pm):
+      Just let me live this dream\nWonder3r (9:36pm): You won\u2019t be back"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 506280052514816
+    m_Localized: "To: dupree@fwegomail.com\nFrom: anata@fwegomail.com\n\nSubject:
+      To The Best\n\nDear Mr. Dupree,\n\nMerry Christmas! I wanted to use this opportunity
+      to thank you for my last semester in college, although it was so long ago.
+      I have never enjoyed an English class so much in my life before. You were able
+      to pull distinct parts of the literature and relate them to us in a way that
+      opened our eyes, my eyes at least. Without you, it would not have been possible.
+      \n\nOn the first day of class, you walked in quietly yet there was something
+      loud in your aura. Perhaps it was your determination in learning with us. You
+      told us you had this class many times before, but something different happened
+      each time for you. You also said that everyone would learn something for themselves.
+      Some would know defeat and give up. Some would go through it half heartedly
+      and continue to do so in their life. Those kinds of students, you said, you
+      felt sorry for. It seemed like such a daunting way to open a class, the way
+      you related it directly to our future lives. A lot of kids dropped your class
+      after a week, and I felt sorry for them too.\n\nI must be honest, I was one
+      of those half-hearted students in the beginning. But after eight weeks, I realized
+      I had to work harder and you had so much to teach us. It was a challenge, reading
+      two books for some of our meetings. Maybe that was why I was put off by the
+      work initially. Thankfully, your class was a major criteria for my degree so
+      that definitely pushed me to work harder. How is it that we finished nine books
+      in the course of four months? \n\nMr. Dupree, I\u2019m writing to you now,
+      five years late. I know we bumped into each other a year ago at the Whitney
+      Museum. Since then, something has been bothering me so much. Seeing you that
+      day made me see myself. I started realizing I had not progressed since I was
+      in your class. In a way, I have failed you and I have failed myself. You taught
+      us to think for ourselves, to honor ourselves, and to find our purpose. I have
+      been wasting the last few years and I lost my sense of individuality. I\u2019ve
+      thrown myself at the wrong targets. I know it isn\u2019t something you hoped
+      to hear from your former students, especially me. I was never supposed to turn
+      into one of those students that you felt sorry for. \n\nThe last day of class,
+      I stayed behind and we talked for an hour. Then you said to me, \u201CI expect
+      great things. Now be gone.\u201D I left with a feeling of confidence, nothing
+      could ruin it. But truthfully, I was blinded. Things will change now. I will
+      be sure that I, myself, will do great things. I won\u2019t slow down for anyone
+      anymore. All the lessons you\u2019ve taught me are coming back to me. And I
+      am awake.\n\nThank you with all my heart and Happy Holidays.\n\nAnata Lawliet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 506584902918144
+    m_Localized: MERRY CHRISTMAS!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 506837827837952
+    m_Localized: "Anata Lawliet \n\n202-555-0175\nLawlieta@aol.com \n\n\nSkills:\n\nCreative
+      writing\nProject management\nMicrosoft Office\nPhotography and filming\n\n\nExperience:\n\nSecretary
+      at JJB International Paper Company, New York, NY\u2014 2 years\n\n- General
+      clerical work, such as answering phone calls, record keeping, and filing\n\n-
+      Maintain office supply and food pantry\n\n- Managed office tidiness and environment\n\n-
+      Occasional administrative assistance when manager is off-duty \n\n\nOffice
+      manager at Penny Publishing Inc, New York, NY\u20142.5 years\n\n- Coordinated
+      meetings with clients, including company board meetings\n\n- Organized company
+      schedule and deadlines for projects\n\n- Train new employees in building access,
+      office etiquette, and hardware/software equipment\n\n- Executed and oversaw
+      special projects\n\n\nWriting Internship at Outrider News, Chicago, Illinois\u2014
+      6 months to present\n\n- Work with various show producers and anchors to write
+      lines, manage live shots, and handle guest segments\n\n- Create production
+      elements for scripts (tape and graphics)\n\n\nEducation: \n\nNew York University,
+      New York, NY\u2014 4 years\nBA in Journalism"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507161422585856
+    m_Localized: "Everyone leaves\n\nFor everyone\u2019s journey\nIt is away from
+      here\nAway from me\nI keep saying\nDistance brings a different focus\nIt will
+      bring them clarity\n\nThe hurt I feel is deeply seated\nIn the need to love
+      and be loved\neveryone pushes me to be by myself\nGod set the rule for me\nMy
+      journey is also away\nAway from this heart \nThat aches\n\nAt the end of the
+      day\nthe first thought that comes\nIs if I am necessary to exist\nIf my journey
+      is to learn to be alone\nWhat about the ones who are still here?\nBut of course,\nI
+      build them up \nSo they can leave.\n\nthe truth is I feel betrayed,\nBut sorry
+      to feel that way\nI also know why they go\n\nStuck in a sore spot\nto understand
+      and then forget\nA vicious cycle that leads me down\nEveryone leaves eventually,\nim
+      angry but softened at the thought\nThat they deserve to fly."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507447100825600
+    m_Localized: GO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508209235222528
+    m_Localized: "Month of January\n\nCandles \u2013 $17.69\nVan Gogh puzzles \u2013
+      $34.03\nGas \u2013 $24.82\nWalkman for Alex bday gift \u2013 $160.00\nGroceries
+      \u2013 $79.91\nClock for Priya \u2013 $5.00\nMom\u2019s rent \u2013 $450.00"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508569995698176
+    m_Localized: '
+
+      FREEROMDOWNLOADS.COM
+
+
+
+
+      ROMS
+
+
+      ROM LINKS
+
+
+      New
+      Links
+
+
+      Message Board'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508870010068992
+    m_Localized: "\n\n\n\n\n\tTHIS WEBSITE IS UNAVAILABLE\n\n\n\tPlease check your
+      internet connection."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509164118859776
+    m_Localized: 'To: anata@fwegomail.com
+
+      From: NO-REPLY@cheapertickets.com
+
+
+      Departure
+      December 31, 1999
+
+
+      Airline: EgyptAir
+
+      Place New York (JFK)
+
+      Time:
+      6:30 pm
+
+      Terminal: 1
+
+      Cabin: Economy
+
+
+      Place: Cairo (CAI)
+
+      Time:
+      12:05 pm
+
+      Terminal: 3
+
+
+      Duration 10h 35m'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509369614589952
+    m_Localized: SPAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509502569832448
+    m_Localized: ARCHIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509645545267200
+    m_Localized: DRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509833521389568
+    m_Localized: SENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509979277647872
+    m_Localized: INBOX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510160605798400
+    m_Localized: "Flight Confirmation\t\t\t\t\t\t CheaperTickets.com\t\t\t December
+      1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510447026429952
+    m_Localized: "\tTRASH"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510670654136320
+    m_Localized: "To The Best\t\t\t\t\t \t\t\t\t\t Anata Lawliet\t\t\t\t\t \t  December
+      1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510854746333184
+    m_Localized: "SUBJECT\t\t\t\t\t\t\t\t\t\t\tFROM\t\t\t\t\t\t\t\t\t\t\tDATE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511422323744768
+    m_Localized: CLICK HERE TO VISIT OUR SPONSOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511969034493952
+    m_Localized: 'ROMS online:
+
+      Remember to check out my Sponsors
+
+      ATARI
+      174 ROMS online
+
+      FAMICOM 282 ROMS online
+
+      MAME32 1208 ROMS online'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512147036561408
+    m_Localized: All trademarks and copyrights are owned by their respected companies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512369649246208
+    m_Localized: THE END
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1567049976532992
+    m_Localized: 'Buddies (2/40)
+
+
+
+
+
+
+      Family (0/0)
+
+      Co-Workers (0/0)
+
+      Recent
+      Buddies (0/2)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574205937307648
+    m_Localized: "Wonder3r (5:00pm):\n\n\tOhsh1talex (4:27pm): Hey wut u doing tonight?\n\tWonder3r
+      (4:35pm): Hey Alex\n\tWonder3r (4:35pm): I was gonna finish up this book\n\tWonder3r
+      (4:35pm): Why\n\tOhsh1talex (4:35pm): Come out LOL\n\tOhsh1talex (4:35pm):
+      We drinking at Tracy\u2019s\n\tWonder3r (4:37pm): Idk\n\tWonder3r (4:37pm): 
+      What time\n\tOhsh1talex (4:38pm): Like 8?\n\tWonder3r (4:39pm): I really should
+      finish the book tho\n\tOhsh1talex (4:40pm): Oo what are you reading\n\tWonder3r
+      (4:45pm): Philosophy book by William James\n\tOhsh1talex (4:45pm): Oh ok\n\tWonder3r
+      (4:46pm): Yeah it\u2019s pretty interesting\n\tWonder3r (4:46pm): He talks
+      about how religious experiences should be valued in their fruits\n\tWonder3r
+      (4:46pm): Like what people make of them\n\tOhsh1talex (4:47pm): So r u coming
+      tn?\n\tWonder3r (4:47pm): Who\u2019s going\n\tOhsh1talex (4:50pm): I know Alice
+      n her ppl are coming\n\tOhsh1talex (4:50pm): Priya Josh Kenny Kai\n\tOhsh1talex
+      (4:50pm): Me LOL\n\tWonder3r (4:51pm): Is Terrence going\n\tOhsh1talex (4:51pm):
+      Nah\n\tOhsh1talex (4:51pm): Come thru\n\tOhsh1talex (4:53pm): I\u2019ll bring
+      Riesling\n\tWonder3r (4:57pm): LOL \n\tWonder3r (4:57pm): Ok fine\n\tOhsh1talex
+      (4:58pm): I\u2019ll pick u up?\n\n\nWonder3r (5:01pm): Looks like I\u2019m
+      coming through after all\nWonder3r (5:01pm): Lol\nPr3ttyPr1yaa (5:03pm): LOL
+      YAAAAY\nPr3ttyPr1yaa (5:03pm): Wow only when Alex asks then you want to come
+      :(\nWonder3r (5:05pm): LOL I mean\nWonder3r (5:05pm): I can finish the book
+      tomorrow\nPr3ttyPr1yaa (5:06pm): LOOOL sure you willll\nPr3ttyPr1yaa (5:06pm):
+      What are you wearing\nWonder3r (5:07pm): The usual\u2026?\nPr3ttyPr1yaa (5:09pm):
+      -____-\nWonder3r (5:09pm): -____-\nPr3ttyPr1yaa (5:10pm): You wanna borrow
+      something?\nPr3ttyPr1yaa (5:10pm): Come over before the party\nWonder3r (5:12pm):
+      It\u2019s okay I\u2019ll meet you at Tracy\u2019s?\nPr3ttyPr1yaa (5:14pm):
+      Okay~ be safeee"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3753931010584576
+    m_Localized: Undo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3753960261660672
+    m_Localized: Cut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755220322856960
+    m_Localized: Copy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755231760723968
+    m_Localized: Paste
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755241965465600
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755253420109824
+    m_Localized: Select All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894007912837120
+    m_Localized: By Small Icon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894035339390976
+    m_Localized: By Icon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894053156794368
+    m_Localized: By Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894065941032960
+    m_Localized: By Size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894078045794304
+    m_Localized: By Kind
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894159604035584
+    m_Localized: By Label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894206353747968
+    m_Localized: New
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894217854529536
+    m_Localized: Open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894227375599616
+    m_Localized: Print
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894235671932928
+    m_Localized: Close Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894281612144640
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894291271626752
+    m_Localized: Shutdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894333734760448
+    m_Localized: About this Game
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

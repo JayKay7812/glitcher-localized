@@ -1,0 +1,429 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: glitcherstrings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: glitcherstrings
+  m_TableCollectionNameGuidString: d54368cb3954f41bc82761f40c74d2a9
+  m_Entries:
+  - m_Id: 227099533312
+    m_Key: file
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19530448363520
+    m_Key: edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24350190198784
+    m_Key: view
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24823223803904
+    m_Key: special
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37000856985600
+    m_Key: trash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41177398108160
+    m_Key: browser
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41696392896512
+    m_Key: email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42172756779008
+    m_Key: document
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42420380098560
+    m_Key: computer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 363866797105152
+    m_Key: new
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479156746838016
+    m_Key: untitled
+    m_Metadata:
+      m_Items: []
+  - m_Id: 479462251552768
+    m_Key: SANSSERIFF.FNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 482913727537152
+    m_Key: UNTITLED.BMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 485618013429760
+    m_Key: systemddl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486016006742016
+    m_Key: aboutGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486194579234816
+    m_Key: seriff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 486569608732672
+    m_Key: untitledTxt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487263405334528
+    m_Key: RESUME.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487471459590144
+    m_Key: ADULTHOOD.JPG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 487683540377600
+    m_Key: TERMINAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488174399774720
+    m_Key: HOLIDAYCARD.BMP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488408496463872
+    m_Key: emailClient
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489230521327616
+    m_Key: PR3TTYPR1YAA CHAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489668889010176
+    m_Key: OHSH1TALEX CHAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 489836111716352
+    m_Key: EMULATOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490082271223808
+    m_Key: FLOPPY DISK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490857504432128
+    m_Key: WONDER3R'S BU...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491058902327296
+    m_Key: CHILDHOOD.JPG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491263517253632
+    m_Key: EXPENSES.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 491520896524288
+    m_Key: GAMES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492471745241088
+    m_Key: BRINK.TXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 492831184510976
+    m_Key: SYSTEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493003427799040
+    m_Key: APPLICATIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493443137658880
+    m_Key: TEXT EDITOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493631382216704
+    m_Key: PAINTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 493798663643136
+    m_Key: INSTANT MSG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494046245019648
+    m_Key: LIBRARY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495076684849152
+    m_Key: TRASH BIN/ROMS/
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495703800406016
+    m_Key: SUPERFLOPPYDISK.ROM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496150095323136
+    m_Key: UTILITIES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496323609485312
+    m_Key: SYSTEM.DLL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496543441346560
+    m_Key: New Entry 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 496906579992576
+    m_Key: SERIFF.FNT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497202433613824
+    m_Key: FONTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497348525416448
+    m_Key: New Entry 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 497738998341632
+    m_Key: DOWNLOADS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 498509810753536
+    m_Key: ROMS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501215199748096
+    m_Key: DOCUMENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501704465309696
+    m_Key: FREEROMDOWNLOADS.COM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503361701928960
+    m_Key: SUPER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 503997839433728
+    m_Key: Press Enter to restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504222792540160
+    m_Key: scan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504439256375296
+    m_Key: ending
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504811765096448
+    m_Key: PR3TTYPR1YAA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505094738010112
+    m_Key: OHSH1TALEX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505589384863744
+    m_Key: gameby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 505809715847168
+    m_Key: messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 506280052514816
+    m_Key: tothebest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 506584902918144
+    m_Key: merryChristmas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 506837827837952
+    m_Key: 'Anata Lawliet '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507161422585856
+    m_Key: everyone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 507447100825600
+    m_Key: GO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508209235222528
+    m_Key: month
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508569995698176
+    m_Key: freerom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 508870010068992
+    m_Key: Unavailable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509164118859776
+    m_Key: emailcontent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509369614589952
+    m_Key: SPAM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509502569832448
+    m_Key: ARCHIVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509645545267200
+    m_Key: DRAFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509833521389568
+    m_Key: SENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 509979277647872
+    m_Key: INBOX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510160605798400
+    m_Key: flight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510447026429952
+    m_Key: aTrash
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510670654136320
+    m_Key: toTheBest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 510854746333184
+    m_Key: subjectFrom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511422323744768
+    m_Key: SPONSOR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 511969034493952
+    m_Key: ROMS online
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512147036561408
+    m_Key: trademarks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 512369649246208
+    m_Key: THE END
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1567049976532992
+    m_Key: IMfrontpage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1574205937307648
+    m_Key: priyaChat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3753931010584576
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Edit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3753960261660672
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Edit 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755220322856960
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Edit 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755231760723968
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Edit 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755241965465600
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Edit 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3755253420109824
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Edit 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894007912837120
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/View
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894035339390976
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/View 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894053156794368
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/View 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894065941032960
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/View 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894078045794304
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/View 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894159604035584
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/View 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894206353747968
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/File
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894217854529536
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/File 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894227375599616
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/File 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894235671932928
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/File 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894281612144640
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Special
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894291271626752
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Special 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3894333734760448
+    m_Key: Glitcher/COMPUTER/Screen/MENU BAR/Logo
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8287352335237120027
+  references:
+    version: 2
+    RefIds:
+    - rid: 8287352335237120027
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1669937127774
